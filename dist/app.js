@@ -1,4 +1,4 @@
-const registerForm = document.getElementById("mc-embedded-subscribe-form")
+const registerForm = document.getElementById("subscribe-form")
 
 registerForm.addEventListener('submit', function(e) {
   e.preventDefault();
